@@ -1,5 +1,5 @@
 Using the Google Geocoding API with a Database and 
-Visualizing data on Google Map
+Visualizing data on Google Map #change made by Yu Pan
 
 In this project, we are using the Google geocoding API
 to clean up some user-entered geographic locations of 
